@@ -1,4 +1,4 @@
-Mock Everything As Page Server
+make Everything As Page Server
 1. Page Client (Allocator) 
   * Allocate Movable Memory
   * Registry As Movable
